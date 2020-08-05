@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415012590924",
+    "firebase_url": "https://iot-vehicle-tracking-system.firebaseio.com",
+    "project_id": "iot-vehicle-tracking-system",
+    "storage_bucket": "iot-vehicle-tracking-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415012590924:android:988e5b314924d6ad26abe9",
+        "android_client_info": {
+          "package_name": "com.omeizaalabi.iotvts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415012590924-20mbjm90anp6urk2f2e97lup385fpr5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVIAtvV6e6UVXNJeRnje888zbrqW3sXPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415012590924-20mbjm90anp6urk2f2e97lup385fpr5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
